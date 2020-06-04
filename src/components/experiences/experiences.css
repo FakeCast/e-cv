@@ -1,0 +1,47 @@
+.Experiences {
+  background: #B8F2E6;
+}
+
+.experience-item {
+  margin-left: 20px;
+}
+
+.experience-title {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
+
+  color: #2A2B2A;
+}
+
+.experience-period {
+  font-family: Michroma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.experience-description {
+  font-family: Biryani;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 19px;
+}
+
+ul {
+  margin-left: -25px;
+}
+
+li {
+  font-family: Biryani;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 23px;
+
+  color: #000000;
+}
